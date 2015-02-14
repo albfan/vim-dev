@@ -1,0 +1,18 @@
+## dev
+
+lh-dev is a generic suite of functions for analysing source code.
+
+Audience      : Any ftplugins writers that desire to define complex
+		features that require a little understanding of source
+		code constructs (like function signatures, etc)
+Requirements  : Vim 7, lh-vim-lib (3.0.0), lh-tags (3.0.0)
+Required by   : lh-cpp, lh-refactor
+Author        : Luc Hermitte
+License       : GPLv3 (http://code.google.com/p/lh-vim/wiki/license)
+More Help At  : http://code.google.com/p/lh-vim/wiki/lhDev (eventually)
+Vim script#???: http://www.vim.org/scripts/script.php?script_id=???
+Repository    : http://github.com/albfan/vim-dev
+VAM           : lh-dev
+	http://code.google.com/p/lh-vim/source/browse/dev/trunk/lh-dev-addon-info.txt
+
+See also      : lh-refactor, lh-cpp
